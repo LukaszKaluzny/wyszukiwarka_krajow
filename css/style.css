@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+div {
+  background: url("images/1.jpg") no-repeat;
+  height: 100vh;
+  text-align: center;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=style.css.map */
