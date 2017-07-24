@@ -1,16 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster|Rubik");
 * {
   margin: 0;
 }
 
-div {
+body {
   background: url("images/1.jpg") no-repeat;
-  height: 100vh;
+  background-size: cover;
+  /*height: 100vh;*/
+}
+
+section.mechanism {
+  margin: 20px auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 50%;
+  border-radius: 50px;
+  padding: 20px;
+}
+
+input#country-name {
+  border-radius: 5px;
+}
+
+h1, h2 {
+  font-family: 'Lobster', cursive;
+  padding: 10px;
+}
+
+li, h3 {
+  font-family: 'Rubik', sans-serif;
+}
+
+div {
   text-align: center;
   width: 100%;
 }
 
 ul {
   list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 5px 0;
+  font-size: 1.2em;
 }
 
 /*# sourceMappingURL=style.css.map */
