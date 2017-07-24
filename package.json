@@ -1,0 +1,31 @@
+{
+  "name": "grunt-wyszukiwarka_krajow",
+  "version": "1.0.0",
+  "description": "wyszukiwarka krajow",
+  "main": "gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veiner87/wyszukiwarka_krajow.git"
+  },
+  "keywords": [
+    "wyszukiwarka"
+  ],
+  "author": "Lukasz Kaluzny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veiner87/wyszukiwarka_krajow/issues"
+  },
+  "homepage": "https://github.com/veiner87/wyszukiwarka_krajow#readme"
+}
